@@ -1,0 +1,21 @@
+# Cargo
+/target/
+
+# rust-analyzer
+**/*.rs.bk
+**/*.rs.swp
+
+# IDE
+.vscode/
+.ropeproject
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# env
+.env*
+
+# demo & testing
+demo/
+testing/
