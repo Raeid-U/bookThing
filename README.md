@@ -27,7 +27,7 @@ A desktop GUI built with egui/eframe that drives a `gphoto2` compatible camera t
 
 ## Long Form Demo video
 
-
+https://github.com/user-attachments/assets/7015a1dc-a446-48b0-a50f-3e7b9d03ef35
 
 ## What bookThing produces
 
